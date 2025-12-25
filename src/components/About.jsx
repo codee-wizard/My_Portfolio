@@ -86,7 +86,7 @@ export default function About() {
                     <div className="w-20 h-1 bg-gradient-to-r from-cyan to-purple mx-auto rounded-full" />
                 </motion.div>
 
-                <div className="grid md:grid-cols-2 gap-12 items-start">
+                <div className="grid md:grid-cols-2 gap-12 items-center">
                     {/* Bio Section */}
                     <motion.div
                         variants={containerVariants}
