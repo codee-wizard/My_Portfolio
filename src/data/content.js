@@ -74,7 +74,7 @@ export const projects = [
     "Framer Motion",
     "GSAP",
   ],
-  demo: "https://your-3d-portfoli",
+  demo: "https://my-portfolio-apoorva.vercel.app/",
   highlights: [
     "Interactive 3D elements using Three.js",
     "Smooth page and scroll-based animations",
